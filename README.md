@@ -1,2 +1,1 @@
-# vegyscan-app
-VegyScan APP
+# vegyScan
